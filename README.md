@@ -1,2 +1,2 @@
-# 01-ts-basics.
+# 01-ts-basics
 Module 1. TypeScript Basics
